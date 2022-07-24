@@ -1,0 +1,3 @@
+﻿  constructors.cpp
+C:\Users\yagmu\OneDrive\Masaüstü\Veri yapıları\Vectors\Vectors\constructors.cpp(89): warning C4715: 'vector::at': not all control paths return a value
+  Vectors.vcxproj -> C:\Users\yagmu\OneDrive\Masaüstü\Veri yapıları\Vectors\Debug\Vectors.exe
