@@ -1,0 +1,14 @@
+﻿  template.cpp
+C:\Users\yagmu\OneDrive\Masaüstü\Veri yapıları\Lists\Lists\Lists\template.cpp(79,22): warning C4101: 'exception': unreferenced local variable
+C:\Users\yagmu\OneDrive\Masaüstü\Veri yapıları\Lists\Lists\Lists\template.cpp(74): message : while compiling class template member function 'void List<Complex>::push_back(const T &)'
+          with
+          [
+              T=Complex
+          ]
+C:\Users\yagmu\OneDrive\Masaüstü\Veri yapıları\Lists\Lists\Lists\template.cpp(251): message : see reference to function template instantiation 'void List<Complex>::push_back(const T &)' being compiled
+          with
+          [
+              T=Complex
+          ]
+C:\Users\yagmu\OneDrive\Masaüstü\Veri yapıları\Lists\Lists\Lists\template.cpp(250): message : see reference to class template instantiation 'List<Complex>' being compiled
+  Lists.vcxproj -> C:\Users\yagmu\OneDrive\Masaüstü\Veri yapıları\Lists\Lists\Debug\Lists.exe
